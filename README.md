@@ -1,6 +1,6 @@
 # PaginaWebMusica
 Diseño web de una pagina 
-1.Ejecutar en entorno virtual web
+1.Ejecutar en entorno virtual web para python
 2.Requirements
 Click==7.0
 Flask==1.0.3
